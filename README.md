@@ -1,2 +1,3 @@
 # StockMonitor
-一个j简单的股票监控机器人
+
+[半小时撸一个股票监控机器人](https://zhuanlan.zhihu.com/p/457971334)
